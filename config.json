@@ -1,6 +1,6 @@
 {
     "server": {
-        "host": "0.0.0.0",
+        "host": "192.126.5.4",
         "port": 8080,
         "debug": "false"
     },
